@@ -43,7 +43,3 @@ This script is provided as-is without any warranty. Use it at your own risk. The
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## Acknowledgments
-
-This script was created by [Your Name] as a demonstration of streaming and playing audio in Python. It utilizes the [requests](https://requests.readthedocs.io/) library for making HTTP requests and the [python-vlc](https://pypi.org/project/python-vlc/) library for audio playback.
