@@ -39,7 +39,7 @@ class StreamInfo:
 
 
 def main():
-    stream_url = "http://c2.radioboss.fm:8734/stream"
+    stream_url = "STREAM URL"
     
     info = StreamInfo(stream_url)
     info.get_info()
