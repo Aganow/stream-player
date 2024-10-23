@@ -39,7 +39,7 @@ class StreamInfo:
 
 
 def main():
-    stream_url = "STREAM URL"
+    stream_url = "http://ais-sa3.cdnstream1.com/2606_128.aac"
     
     info = StreamInfo(stream_url)
     info.get_info()
